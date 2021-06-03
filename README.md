@@ -1,5 +1,5 @@
 
-![Test Image 4](D:/Kaggle_rank_2)
+![Markdown Logo](https://github.com/mainak-cmd/House-Price/blob/main/screenshots/Kaggle_rank_2.png)
 
 
 # predicting House-Price setps 
