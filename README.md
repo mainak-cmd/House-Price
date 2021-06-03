@@ -1,5 +1,5 @@
 # predicting House-Price setps 
-project.ipynb #..
+project.ipynb ##.
 1.load lyberies#..
 2.load data #..
 3.remove features haveing more than 50% null value #..
