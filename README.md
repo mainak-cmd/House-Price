@@ -1,3 +1,7 @@
+
+![Test Image 4](D:/Kaggle_rank_2)
+
+
 # predicting House-Price setps 
 #..project.ipynb ##.
 1.load lyberies#..
@@ -22,4 +26,7 @@
 2)one-hot encodeing #..
 3)clf.predict(test file) #..
 4)datasets.to_csv('sample_submission1.csv',index=False) #..
+
+
+
  
