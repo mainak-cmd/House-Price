@@ -17,7 +17,7 @@
   10) validation both  pipeline object by cross-validation method(k=6)
   11) combine both model with voteing regressor (final model) 
   12) validate model useing crossvalidation 
-  13) model.fit(X,y) 
+  13) final model.fit(X,y) 
   14) import model as joblib file 
 
 
