@@ -4,9 +4,9 @@
 
 # predicting House-Price setps 
 ## project.ipynb 
-  1.load lyberies#..
-  2.load data #..
-  3.remove features haveing more than 50% null value #..
+  1) load lyberies
+  2) load data 
+  3) remove features haveing more than 50% null value 
   4.one-hot encodeing of categorical features #..
   5.prepare na-imputation stategy #..
   6.Useing PCA dimentianality reduction #..
