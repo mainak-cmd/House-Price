@@ -3,7 +3,7 @@
 
 
 # predicting House-Price setps 
-#..project.ipynb ##.
+## project.ipynb 
   1.load lyberies#..
   2.load data #..
   3.remove features haveing more than 50% null value #..
@@ -21,11 +21,11 @@
   14.import model as joblib file #..
 
 
-#..prediction.ipynb#..
-  1)import file as clf #..
-  2)one-hot encodeing #..
-  3)clf.predict(test file) #..
-  4)datasets.to_csv('sample_submission1.csv',index=False) #..
+## prediction.ipynb
+  1)import file as clf 
+  2)one-hot encodeing 
+  3)clf.predict(test file) 
+  4)datasets.to_csv('sample_submission1.csv',index=False) 
 
 
 
