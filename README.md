@@ -15,9 +15,11 @@
 12.validate model useing crossvalidation #..
 13.model.fit(X,y) #..
 14.import model as joblib file #..
-prediction.ipynb
-1)import file as clf
-2)one-hot encodeing
-3)clf.predict(test file)
-4)datasets.to_csv('sample_submission1.csv',index=False)
+
+
+#..prediction.ipynb#..
+1)import file as clf #..
+2)one-hot encodeing #..
+3)clf.predict(test file) #..
+4)datasets.to_csv('sample_submission1.csv',index=False) #..
  
