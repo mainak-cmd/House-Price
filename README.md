@@ -9,7 +9,7 @@
   3) remove features haveing more than 50% null value 
   4) one-hot encodeing of categorical features 
   5) prepare na-imputation stategy .
-  6) Useing PCA dimentianality reduction 
+  6) Useing PCA to reduce dimentianal.
   7) Use FFS useing linear model to selection of more  relavent features .
   8) create one ols and elastic net regression model 
   9) create pipeline to combine (na-imputation stategy,PCA(100), FFS useing linear model,ols) 
